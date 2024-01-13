@@ -1,30 +1,33 @@
-Markdown Cheatsheet
-======================
+# Markdown Cheatsheet
 
 # Headers
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
 
 # Emphasis
 
-*italic* or _italic_
-**bold** or __bold__
-***bold italic*** or ___bold italic___
+_italic_ or _italic_
+**bold** or **bold**
+**_bold italic_** or **_bold italic_**
 
 # Lists
 
 ## Unordered
 
-* Item 1
-* Item 2
-* Item 3
-  * Item 3a
-  * Item 3b
-  * Item 3c
+- Item 1
+- Item 2
+- Item 3
+  - Item 3a
+  - Item 3b
+  - Item 3c
 
 ## Ordered
 
@@ -68,10 +71,10 @@ public class HelloWorld {
 
 # Tables
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 # Task Lists
 
