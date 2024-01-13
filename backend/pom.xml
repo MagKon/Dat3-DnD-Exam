@@ -222,9 +222,10 @@
                             <artifact>:</artifact>
                             <excludes>
                                 <exclude>module-info.class</exclude>
-                                <exclude>META-INF/.SF</exclude>
-                                <exclude>META-INF/.DSA</exclude>
+                                <exclude>META-INF/*.SF</exclude>
+                                <exclude>META-INF/*.DSA</exclude>
                                 <exclude>META-INF/*.RSA</exclude>
+                                <excludeGroupIds>junit,org.mockito,org.hamcrest</excludeGroupIds>
                             </excludes>
                         </filter>
                     </filters>
