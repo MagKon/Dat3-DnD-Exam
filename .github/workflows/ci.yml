@@ -1,9 +1,9 @@
 name: API JAVALIN WORKFLOW
 on:
   push:
-    branches: [workflow_complete]
+    branches: main
   pull_request:
-    branches: [workflow_complete]
+    branches: main
 jobs:
   build:
     runs-on: ubuntu-latest
