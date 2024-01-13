@@ -27,3 +27,4 @@
 | /api/v1/feats             | GET    |                                                                    | Gets all feats                                  |
 | /api/v1/race              | GET    |                                                                    | Gets all races                                  |
 | /api/v1/race/             | GET    | Name of race                                                       | Gets race with a certain name                   |
+
